@@ -1857,7 +1857,6 @@ vless://054fad51-66b2-f0b1-7898-8c113cb5697d@me3.katalogini.ir:2082?encryption=n
 vless://0b57abc4-2441-45cf-ba8f-4eed20313884@snapp.ir:80?encryption=none&security=none&type=ws&host=pan51e.nexoratechcenter.ir&path=%2F#HAJALI-1527
 vless://0848cac9-2a79-42e1-a8b9-91146d6ede57@snapp.ir:2052?encryption=none&security=none&type=ws&host=vip4.vxhosting.ir&path=%2F#HAJALI-1118
 vless://a8cac7c2-fe3c-47e7-b8d7-2de2fce45c7d@snapp.ir:80?encryption=none&security=none&type=ws&host=gamefa.yeksanplus.ir&path=%2F#Hajali-115283
-vless://a98589e5-bef1-4065-b488-fdbb06d7ea38@snapp.ir:80?encryption=none&security=none&type=ws&host=gamefa.yeksanplus.&path=%2F
 vless://a714554c-2e15-441a-b88a-be65373c480b@anten.ir:80?encryption=none&security=none&type=ws&host=v2.kithome.ir&path=%2F#Hajali-114175
 vless://a9597b29-ddeb-4ecd-803a-6b35146a6251@or2.pasargadser.ir:8880?encryption=none&security=none&type=ws&path=%2F#Hajali-115621
 vless://a7f9967c-9220-401d-921b-071f7e3f08c7@arv.stormserver.eu:80?encryption=none&security=none&type=ws&host=ws.vpinoelevenfas.ir&path=%2Fws#Hajali-114752
@@ -4135,7 +4134,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.72.206:2053?encryption=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F#Hajali--110
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F#Hajali--111
 vless://5aaf8ce7-b928-4026-b2cf-c1ed66e79b0f@185.143.234.200:8080?encryption=none&security=none&type=ws&host=ae.battledns.ir&path=%2Fwss%3Fed%3D2048#Hajali--112
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?encryption=none&security=tls&sni=sni.111000.indevs.&insecure=0&allowInsecure=0&type=tcp&headerType=none
 vless://02158d19-8444-41ad-9ba1-4680bd70665d@185.143.233.232:443?encryption=none&security=tls&sni=pishparda.ir&insecure=0&allowInsecure=0&type=ws&host=pishparda.ir&path=%2Fvoip#Hajali--30
 vless://22d60a24-f1cc-4240-8166-0bc3ab3697df@37.152.188.114:56875?encryption=none&security=none&type=tcp&headerType=none#Hajali--1
 vless://16d3ad8b-23f7-458a-a649-0096f9be6d07@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=%2F#Hajali--2
@@ -4192,7 +4190,6 @@ vless://44737835-a091-4cc4-b70c-8041e6755ee9@185.143.234.200:8080?encryption=non
 vless://3915075f-3477-489b-a4b3-7376f3a5b8c9@185.143.234.235:80?encryption=none&security=none&type=ws&host=fariray.watchwhat.ir&path=%2F#Hajali--55
 vless://44737835-a091-4cc4-b70c-8041e6755ee9@185.143.233.235:8080?encryption=none&security=none&type=ws&host=fr.battledns.ir&path=%2Fwss%3Fed%3D2048#Hajali--56
 vless://37776f21-23f6-4561-9cfc-8118132dd741@185.143.235.253:80?encryption=none&security=none&type=ws&host=ss.oppobot.ir&path=%2F#Hajali--57
-vless://2eed91d6-f576-482f-897b-c4ed51258b78@185.143.233.232:443?encryption=none&security=tls&sni=pishparda.&insecure=0&allowInsecure=0&type=tcp&headerType=none
 vless://400c1b5a-2f31-4eca-ac03-3d8b2fc305bc@185.143.233.235:80?encryption=none&security=none&type=ws&host=mcs.kamalaround.ir&path=%2F#Hajali--59
 vless://3a31210d-0af8-4c57-b3a5-ec1cefa0ff18@185.143.234.235:80?encryption=none&security=none&type=ws&host=fariray.watchwhat.ir&path=%2F#Hajali--60
 vless://44737835-a091-4cc4-b70c-8041e6755ee9@185.143.234.200:8080?encryption=none&security=none&type=ws&host=ae.battledns.ir&path=%2Fwss%3Fed%3D2048#Hajali--61
@@ -4282,7 +4279,6 @@ vless://a35ac00e-096a-4b0b-93b8-9a4c862eb0ed@185.143.234.235:80?encryption=none&
 vless://abfd9d6c-603a-488e-859d-2e201ef750de@185.143.233.220:8880?encryption=none&security=none&type=httpupgrade&host=vira8.tradepal.ir&path=%2F#Hajali-597
 vless://ad5fbc5d-77c6-484e-bb87-f6ad3af1e2a0@185.143.234.235:80?encryption=none&security=none&type=ws&host=dl2-bale.lovlytehran.ir&path=%2F#Hajali-598
 vless://94b04149-674d-4a28-aadf-e3457686c870@185.143.234.235:80?encryption=none&security=none&type=ws&host=dl2-bale.lovlytehran.ir&path=%2F#Hajali-599
-vless://9e929296-83a1-4fa7-9719-5378890f61cb@185.143.233.235:80?encryption=none&security=none&type=ws&host=vixon.portab.&path=%2F
 vless://85ef6a7d-f04f-4c72-909b-9b5531440afc@185.143.234.235:80?encryption=none&security=none&type=ws&host=vix.idcenter.top&path=%2F#Hajali-542
 vless://707eb49b-3361-44e3-95df-8672b1f0c571@185.143.233.222:2095?encryption=none&security=none&type=httpupgrade&host=vira6.tradepal.ir&path=%2F#Hajali-543
 vless://7d3def01-f0c2-48ee-97a8-39f700b79f9c@185.143.233.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=%2F#Hajali-544
@@ -4368,7 +4364,6 @@ vless://dba4ed72-be56-4747-ad7f-0bead6360136@185.143.233.222:2095?encryption=non
 vless://d953e457-525c-4e7b-bbc9-c480449b0bdc@188.75.78.227:80?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#Hajali-865
 vless://d953e457-525c-4e7b-bbc9-c480449b0bdc@213.195.22.180:80?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#Hajali-866
 vless://e85de670-d1af-4ef9-a3dd-a93c21ca92df@185.143.233.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=%2F#Hajali-867
-vless://e922e148-d294-4d40-9fb4-73d8b4c45cf7@185.143.233.5:443?encryption=none&security=tls&sni=pishparda.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pishparda.&path=%2Fvoip#none
 vless://cd0a06ef-d428-411a-b77d-12bcb1b83665@185.143.233.217:80?encryption=none&security=none&type=ws&host=hz.chehre-negar.ir&path=%2Fws#Hajali-869
 vless://d45ff9dc-07f5-429e-8a9a-dfa6fdaeb6cc@185.143.233.232:443?encryption=none&security=tls&sni=pishparda.ir&insecure=0&allowInsecure=0&type=ws&host=pishparda.ir&path=%2Fvoip#Hajali-870
 vless://f35a4615-df29-482d-bd19-64be62f44ae4@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=%2F#Hajali-871
@@ -4394,7 +4389,6 @@ vless://ffe2914a-aaea-41e5-ae9d-e5c141a0eb37@37.32.15.238:8080?encryption=none&s
 vless://f64817ae-fc58-4b81-8a0b-9ebc04f82d90@185.143.233.5:80?encryption=none&security=none&type=ws&host=outhell.snappfoodi.ir&path=%2Fapi%2Fv2#Hajali-897
 vless://fe94b36c-7734-4f94-b247-9e0c12a82ee3@185.143.234.122:80?encryption=none&security=none&type=ws&host=o1.avenflow.ir&path=%2F#Hajali-898
 vless://8e885c53-e8ee-4fdb-b811-661ec88afca4@vip.bia2grand.website:33189?encryption=none&security=none&type=tcp&headerType=http&host=filimo.com#Hajali-892
-vless://f5d228e8-d3a5-47c6-aec9-4786c18d235e@useredge1.noroozmobarak.com:8880?encryption=none&security=none&type=ws&host=my.&path=%2Fweb-panel#none
 vless://937a51cb-8e4d-41d2-a9af-8a02dca09e72@axn.axnl.shop:1000?encryption=none&security=none&type=tcp&headerType=none#Hajali-936
 vless://a47ce16b-1e14-4f83-a3b6-5fcc4bd2322c@axn.axnl.shop:1000?encryption=none&security=none&type=tcp&headerType=none#Hajali-913
 vless://a4cff543-7178-4a72-b8bb-047fc603b384@snapp.ir:80?encryption=none&security=none&type=ws&host=lastnight.alldoingthis.ir&path=%2Foldluagh#Hajali-889
